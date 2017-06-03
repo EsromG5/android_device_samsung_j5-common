@@ -48,4 +48,3 @@ index cc71aec..f57b7c6 100644
              mAudioManager.setMode(AudioManager.MODE_IN_CALL);
 -- 
 2.7.4
-
